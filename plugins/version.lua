@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'telejianbot v1.1'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer :@Amir13137878 👈
   
-  Channel : @Nod32team
+  Channel : @telejian100 👈
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Update bot to super group very soon... ⚡
   
-  NOD32 VERSION 8
+  Telejian v1.1
   
   All rights reserved.
   __________________]]
